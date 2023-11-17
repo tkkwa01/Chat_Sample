@@ -1,4 +1,4 @@
-module go/Chat_Sample/server
+module github.com/tkkwa01/Chat_Sample
 
 go 1.20
 

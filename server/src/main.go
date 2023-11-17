@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go/Chat_Sample/server/handlers"
+	"github.com/tkkwa01/Chat_Sample/handlers"
 	"log"
 	"net/http"
 )
